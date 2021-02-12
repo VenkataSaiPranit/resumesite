@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Venkata Sai Pranit",
+    "occupation": "STUDENT of ECE",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am sai, you might also know me as Venkata Sai Pranit Thotakura. I've been coding for over 3 year now. As a Full Stack developer and Python Devloper. I have developed many python projects based on AI and ML like face-mask detector, social distance detector,  speed detection using Webcam and lot more.",
+    "contactmessage": "Get in touch with me to be a part of my future works!",
+    "email": "saipranit01@gmail.com",
+    "phone": "+91 9000668099",
+    "address": {
+      "street": "chandra mouli nagar7/1",
+      "city": "Guntur",
+      "state": "Andhra Pradesh, INDIA",
+      "zip": "522007"
+    },
+    "website": "http://sai143.xyz/",
+    "resumedownload": "https://raw.githubusercontent.com/GowravKrishnaBoyapati/resume/main/Resume-Gowrav-Krishna-Chowdary-Boyapati.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/GOWRAVKRISHNACHOWDARY99/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/gowrav_chowdary/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/GowravKrishnaBoyapati",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "K L University - INDIA",
+        "degree": "Bachelor's Degree, Electronics and Communications",
+        "graduated": "not yet graduated (July 2022)",
+        "description": " "
+      }
+    ],
+    "work": [
+      {
+        "company": "Gowrav Krishna Boyapati",
+        "title": "UG Student",
+        "years": " 2018 - Present(till 2022)",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building my world as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "WhatsApp Clone (React JS)",
+        "category": "",
+        "image": "whatsapp.jpg",
+        "url": "https://gowrav-whatsapp.web.app/"
+      },
+      {
+        "title": "Facebook Clone (React JS)",
+        "category": "",
+        "image": "facebook.jpg",
+        "url": "https://gowrav-facebook.web.app/"
+      },
+      {
+        "title": "Covid-19 Tracker (React JS)",
+        "category": "",
+        "image": "covid-tracker.jpg",
+        "url": "https://gowrav-covid19-tracker.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
